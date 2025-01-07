@@ -18,3 +18,4 @@ threadpoolctl==3.5.0
 tifffile==2024.12.12
 tzdata==2024.2
 virtualenv==20.28.1
+gunicorn==23.0.0
