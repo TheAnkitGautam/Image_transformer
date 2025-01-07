@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 # exit on error
+export PORT=8000  # For Linux/macOS
+set PORT=8000     # For Windows
 set -o errexit
 
 pip install -r requirements.txt
